@@ -136,7 +136,7 @@
 
 ## My Github Stats 📈
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patil-Aditi-Balasaheb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Patil-Aditi-Balasaheb" />
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Patil-Aditi-Balasaheb&hide=issues&count_private=true&show_icons=true&theme=radical" alt="Patil-Aditi-Balasaheb" />
+<img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=Patil-Aditi-Balasaheb&hide=issues&count_private=true&show_icons=true&theme=radical" alt="Patil-Aditi-Balasaheb" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Patil-Aditi-Balasaheb&theme=radical" alt="Patil-Aditi-Balasaheb" />
 
 <!--
