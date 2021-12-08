@@ -135,9 +135,9 @@
 
 
 ## My Github Stats 📈
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patil-Aditi-Balasaheb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Patil-Aditi-Balasaheb" />
-<img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=Patil-Aditi-Balasaheb&hide=issues&count_private=true&show_icons=true&theme=radical" alt="Patil-Aditi-Balasaheb" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Patil-Aditi-Balasaheb&theme=radical" alt="Patil-Aditi-Balasaheb" />
+<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=Patil-Aditi-Balasaheb&hide=issues&count_private=true&show_icons=true&theme=radical" alt="Patil-Aditi-Balasaheb" />
+<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Patil-Aditi-Balasaheb&theme=radical" alt="Patil-Aditi-Balasaheb" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Patil-Aditi-Balasaheb&show_icons=true&locale=en&layout=compact&theme=radical" alt="Patil-Aditi-Balasaheb" />
 
 <!--
 [![Aditi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Patil-Aditi-Balasaheb&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/Patil-Aditi-Balasaheb/github-readme-stats)
