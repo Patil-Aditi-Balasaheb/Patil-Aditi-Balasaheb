@@ -5,7 +5,7 @@
 <br>
 <a href="https://github.com/Patil-Aditi-Balasaheb"><img src="https://komarev.com/ghpvc/?username=Patil-Aditi-Balasaheb&label=Profile%20views&color=0e75b6&style=flat" alt="Patil-Aditi-Balasaheb" /></a> 
 <a href="https://github.com/Patil-Aditi-Balasaheb?tab=followers"><img src="https://img.shields.io/github/followers/Patil-Aditi-Balasaheb?label=followers&style=social" alt="GitHub Badge"></a>
-<a href="https://www.linkedin.com/in/aditi-patil-121048179/"><img src="https://img.shields.io/badge/-Aditi%20Patil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditi-patil-121048179/"></a>
+<a href="https://www.linkedin.com/in/aditi-patil-121048179/" target="_blank"><img src="https://img.shields.io/badge/-Aditi%20Patil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditi-patil-121048179/"></a>
 <br><br>
 
 - 🔭 I’m currently working on **self projects**
@@ -15,10 +15,10 @@
 
 
 ## Github Profile Trophies 🏆
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Patil-Aditi-Balasaheb&theme=radical&no-frame=false" alt="Patil-Aditi-Balasaheb" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Patil-Aditi-Balasaheb&theme=radical&no-frame=false" alt="Patil-Aditi-Balasaheb" /> </p>
 
 ## Connect with Me 🤝
-[<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditi-patil-121048179)
+[<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/aditi-patil-121048179)
 <!--
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Patil-Aditi-Balasaheb)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](patiladiti240@gmail.com) -->
