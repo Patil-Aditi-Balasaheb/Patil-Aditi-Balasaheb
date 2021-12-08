@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aditi Patil <img src="https://c.tenor.com/1ULtxe1Wv10AAAAi/smile-peach-cat.gif" alt="meow" width="40" />
 
-<p>I'm a Full Stack Web Developer 💻, a Machine Learning Enthusiast and a Art Lover 🎨.</p>
+<p>I'm a Full Stack Web Developer 👩‍💻, a Machine Learning Enthusiast and a Art Lover 🎨.</p>
 
 <br>
 <a href="https://github.com/Patil-Aditi-Balasaheb"><img src="https://komarev.com/ghpvc/?username=Patil-Aditi-Balasaheb&label=Profile%20views&color=0e75b6&style=flat" alt="Patil-Aditi-Balasaheb" /></a> 
@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **self projects**
 - 🌱 I’m currently learning **Machine Learning and Android App Development**
 - 📫 How to reach me **patiladiti240@gmail.com**
-- ⚡ Fun fact **In my free, I love watch movies**
+- ⚡ Fun fact **In my free, I love watch movies 🎬**
 
 
 ## Github Profile Trophies 🏆
@@ -24,7 +24,7 @@
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](patiladiti240@gmail.com) -->
 
 
-## Languages & Tools
+## Languages & Tools 🛠
 | <h5 align="left">Languages</h5> | <p align="left">![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)</p> |
 |---------|----------------------------------|
 | <h5 align="left">Frameworks, Platforms and Libraries</h5> | ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
