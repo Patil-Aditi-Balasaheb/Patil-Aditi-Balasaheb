@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **self projects**
 - 🌱 I’m currently learning **Machine Learning and Android App Development**
 - 📫 How to reach me **patiladiti240@gmail.com**
-- ⚡ Fun fact **In my free, I love watch movies 🎬**
+- ⚡ Fun fact **In my free time, I love watching movies 🎬**
 
 
 ## Github Profile Trophies 🏆
