@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aditi Patil <img src="https://c.tenor.com/1ULtxe1Wv10AAAAi/smile-peach-cat.gif" alt="meow" width="40" />
 
-<h3>I'm a Full Stack Web Developer 👩‍💻, a Machine Learning Enthusiast and a Art Lover 🎨.</h3>
+<h3>I'm a Full Stack Web Developer 👩‍💻, a Machine Learning Enthusiast and a Art Lover 🎨</h3>
 
 <br>
 <a href="https://github.com/Patil-Aditi-Balasaheb"><img src="https://komarev.com/ghpvc/?username=Patil-Aditi-Balasaheb&label=Profile%20views&color=0e75b6&style=flat" alt="Patil-Aditi-Balasaheb" /></a> 
