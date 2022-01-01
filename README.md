@@ -17,9 +17,14 @@
 ## Github Profile Trophies 🏆
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Patil-Aditi-Balasaheb&theme=radical&no-frame=false" alt="Patil-Aditi-Balasaheb" /> </p>
 
-## Connect with Me 🤝
-[<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/aditi-patil-121048179)
+## Lets Connect 🤝
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/aditi-patil-121048179)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/Patil-Aditi-Balasaheb)
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:patiladiti240@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&labelColor=white&logo=whatsapp&logoColor=green)](https://wa.me/7678063042/?text=Hi%20Aditi)
+
 <!--
+[<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/aditi-patil-121048179)
 [<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Patil-Aditi-Balasaheb)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](patiladiti240@gmail.com) -->
 
