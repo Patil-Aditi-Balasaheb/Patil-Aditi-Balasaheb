@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Aditi Patil <img src="https://c.tenor.com/1ULtxe1Wv10AAAAi/smile-peach-cat.gif" alt="meow" width="40" />
+# Hi there 👋 I'm Aditi Patil
 
-<h3>I'm a Full Stack Web Developer 👩‍💻, a Machine Learning Enthusiast and a Art Lover 🎨</h3>
+<h3>I'm a Full Stack Web Developer 👩‍💻</h3>
 
 <br>
 <a href="https://github.com/Patil-Aditi-Balasaheb"><img src="https://komarev.com/ghpvc/?username=Patil-Aditi-Balasaheb&label=Profile%20views&color=0e75b6&style=flat" alt="Patil-Aditi-Balasaheb" /></a> 
@@ -8,10 +8,10 @@
 <a href="https://www.linkedin.com/in/aditi-patil-121048179/" target="_blank"><img src="https://img.shields.io/badge/-Aditi%20Patil-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditi-patil-121048179/"></a>
 <br><br>
 
-- 🔭 I’m currently working on **self projects**
-<!-- - 🌱 I’m currently learning **Machine Learning and Android App Development** -->
+- 🔭 I’m currently working on **MERN stack and PHP based projects**
 - 📫 How to reach me **patiladiti240@gmail.com**
 - ⚡ Fun fact **In my free time, I love watching movies 🎬**
+<!-- - 🌱 I’m currently learning **Machine Learning and Android App Development** -->
 
 
 ## Github Profile Trophies 🏆
@@ -21,7 +21,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/aditi-patil-121048179)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/Patil-Aditi-Balasaheb)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:patiladiti240@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&labelColor=white&logo=whatsapp&logoColor=green)](https://wa.me/7678063042/?text=Hi%20Aditi)
+<!--
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&labelColor=white&logo=whatsapp&logoColor=green)](https://wa.me/7678063042/?text=Hi%20Aditi) -->
 
 <!--
 [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/aditi-patil-121048179)
@@ -136,7 +137,8 @@
 -->
 
 
-![Aditi's github activity graph](https://activity-graph.herokuapp.com/graph?username=Patil-Aditi-Balasaheb&theme=radical&layout=compat)  
+[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Patil-Aditi-Balasaheb&hide_border=true&theme=rogue)](https://github.com/Patil-Aditi-Balasaheb/github-readme-activity-graph)
+
 
 
 ## My Github Stats 📈
