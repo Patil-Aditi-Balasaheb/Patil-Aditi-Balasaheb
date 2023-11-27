@@ -137,8 +137,7 @@
 -->
 
 
-[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Patil-Aditi-Balasaheb&hide_border=true&theme=rogue)](https://github.com/Patil-Aditi-Balasaheb/github-readme-activity-graph)
-
+[![Aditi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Patil-Aditi-Balasaheb&bg_color=141321&color=a9fef7&line=fe428e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## My Github Stats 📈
